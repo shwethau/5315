@@ -4,75 +4,74 @@
       "first_name": "Frasier",
       "last_name": "Crane",
       "designation": "Radio Psychaiatrist",
-      "department": "Psychiatry",
+      "department": "Psychiatry"
       
     },
     {
       "first_name": "Roz",
       "last_name": "Doyle",
       "designation": "Producer",
-      "department": "KACL",
+      "department": "KACL"
     },
     {
       "first_name": "Martin",
       "last_name": "Crane",
       "designation": "Police Officer",
-      "department": "Seattle Police Dept",
+      "department": "Seattle Police Dept"
     },
     {
       "first_name": "Niles",
       "last_name": "Crane",
       "designation": "Radio Psychaiatrist",
-      "department": "Psychiatry",
+      "department": "Psychiatry"
     },
     {
       "first_name": "Daphne",
       "last_name": "Moon",
       "designation": "Physiotherapist",
-      "department": "Physiotherapy",
+      "department": "Physiotherapy"
     },
     {
       "first_name": "Lilith",
       "last_name": "Sternin",
       "designation": "Psychaiatrist",
-      "department": "Psychiatry",
+      "department": "Psychiatry"
     },
     {
       "first_name": "Bob",
       "last_name": "Brisco",
       "designation": "Sports Commentator",
-      "department": "Sports",
+      "department": "Sports"
     },
     {
       "first_name": "Bebe",
       "last_name": "Glazer",
       "designation": "Agent",
-      "department": "NA",
+      "department": "NA"
     },
     {
       "first_name": "Kenny",
       "last_name": "Daly",
       "designation": "Station Manager",
-      "department": "Management",
+      "department": "Management"
     },
     {
       "first_name": "Gil",
       "last_name": "Chesterton",
       "designation": "Food Critic",
-      "department": "Restraunts",
+      "department": "Restraunts"
     },
     {
       "first_name": "Niles",
       "last_name": "Crane",
       "designation": "Radio Psychaiatrist",
-      "department": "Psychiatry",
+      "department": "Psychiatry"
     },
     {
       "first_name": "Julia",
       "last_name": "Wilcox",
       "designation": "Radio Presenter",
-      "department": "KACL",
-    }
-    
+      "department": "KACL"
+    }   
   ]
 }
