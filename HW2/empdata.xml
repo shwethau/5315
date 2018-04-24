@@ -13,6 +13,12 @@
       <phone_number>1122334455</phone_number>
     </data>
     <data>
+      <first_name>Stephen</first_name>
+      <last_name>Patterson</last_name>
+      <company>Microsoft</company>
+      <phone_number>1113335559</phone_number>
+    </data>
+    <data>
       <first_name>Jim</first_name>
       <last_name>Halpert</last_name>
       <company>Dunder Mifflin</company>
@@ -27,8 +33,43 @@
     <data>
       <first_name>Bob</first_name>
       <last_name>Vance</last_name>
-      <company>Vance Refregiration</company>
+      <company>Vance Refrigeration</company>
       <phone_number>1234512345</phone_number>
     </data>
-    
+    <data>
+      <first_name>Michael</first_name>
+      <last_name>Scott</last_name>
+      <company>Dunder Mifflin</company>
+      <phone_number>1234123456</phone_number>
+    </data>
+    <data>
+      <first_name>Holly</first_name>
+      <last_name>Flax</last_name>
+      <company>Dunder Mifflin</company>
+      <phone_number>1112223338</phone_number>
+    </data>
+    <data>
+      <first_name>Dwight</first_name>
+      <last_name>Schrute</last_name>
+      <company>Schrute Farms</company>
+      <phone_number>987654321</phone_number>
+    </data>
+    <data>
+      <first_name>Andy</first_name>
+      <last_name>Bernard</last_name>
+      <company>Dunder Mifflin</company>
+      <phone_number>234567890</phone_number>
+    </data>
+    <data>
+      <first_name>Kevin</first_name>
+      <last_name>Malone</last_name>
+      <company>Dunder Mifflin</company>
+      <phone_number>1456789012</phone_number>
+    </data>
+    <data>
+      <first_name>Kelly</first_name>
+      <last_name>Kapoor</last_name>
+      <company>Dunder Mifflin</company>
+      <phone_number>1245789010</phone_number>
+    </data>
   </employees>
